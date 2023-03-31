@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+Fix device counting method to account for double-digit device IDs (#8502)
