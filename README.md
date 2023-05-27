@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
