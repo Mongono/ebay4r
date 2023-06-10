@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add Weights & Biases Docs integrations page (#7199)
