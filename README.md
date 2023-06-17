@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+Merge pull request #22 from SkalskiP/patch-1
