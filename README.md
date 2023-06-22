@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Add dota8.yaml and O tests (#7394)
