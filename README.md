@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
