@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+YAML reformat (#7669)
