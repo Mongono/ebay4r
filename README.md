@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Fix Yolo 8.0.206 scale bug (#7821)
