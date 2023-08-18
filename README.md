@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+YOLOv8 INT8 TFLite Inference Example (#7317)
