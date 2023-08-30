@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+docs: update view-results-in-terminal.md (#66)
