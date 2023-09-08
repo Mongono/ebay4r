@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
