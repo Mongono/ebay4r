@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Update CITATION.cff with cffinit corrections (#8658)
