@@ -1,1 +1,1 @@
-added badges (#45)
+Add new @Retry() decorator (#7854)
