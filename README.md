@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+fix yolo classify model loading error (#9196)
