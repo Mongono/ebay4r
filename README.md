@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Docs partial mdformat improvements (#7378)
