@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
