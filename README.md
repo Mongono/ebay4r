@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Add type hinting to explorer.py (#7388)
