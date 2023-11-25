@@ -1,1 +1,1 @@
-fix predict with class filter
+Auto-format by https://ultralytics.com/actions
