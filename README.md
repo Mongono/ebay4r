@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
