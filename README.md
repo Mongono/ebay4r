@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Update Colab notebook for YOLOv8.1 (#8660)
