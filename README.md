@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
