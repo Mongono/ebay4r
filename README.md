@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Update Docs README (#8919)
