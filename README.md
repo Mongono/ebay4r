@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
