@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
