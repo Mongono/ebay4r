@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)
