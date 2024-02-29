@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
