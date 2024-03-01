@@ -1,1 +1,1 @@
-ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
