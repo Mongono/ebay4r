@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Elaborate Train and Predict mode docs arguments (#8137)
