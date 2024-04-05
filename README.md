@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Rename model_id to model.id (#8447)
