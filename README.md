@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+OBB: Fix plot_images (#7592)
