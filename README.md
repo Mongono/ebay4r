@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
