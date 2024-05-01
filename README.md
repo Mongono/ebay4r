@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add YOLOv8 LibTorch C++ inference example (#7090)
