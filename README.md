@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
