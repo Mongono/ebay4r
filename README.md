@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
