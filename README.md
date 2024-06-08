@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
