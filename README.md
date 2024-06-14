@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
