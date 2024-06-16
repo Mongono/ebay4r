@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Capitalize OBB acronym (#7383)
