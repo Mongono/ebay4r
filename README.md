@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
