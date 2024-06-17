@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Avoid creating -hub dir without processing images (#8334)
