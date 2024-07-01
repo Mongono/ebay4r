@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
