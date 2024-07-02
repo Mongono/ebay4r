@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Add PaddlePaddle Docs Integrations Page (#8858)
