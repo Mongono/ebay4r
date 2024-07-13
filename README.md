@@ -1,1 +1,1 @@
-New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
+Locked Tabs - Adds a lock switch to every tab inside the tab switcher that, when enabled, prevents the specific tab from being closed until the switch is disabled again
