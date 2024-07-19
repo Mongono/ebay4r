@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Use pathlib in DOTA ops (#7552)
