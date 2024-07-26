@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Fix Yolo 8.0.206 scale bug (#7821)
