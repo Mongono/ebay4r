@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Add Weights & Biases Docs integrations page (#7199)
