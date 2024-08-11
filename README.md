@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
