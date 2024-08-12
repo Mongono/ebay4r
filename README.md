@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Update Discord and Contributing Guide URLs (#9270)
