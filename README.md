@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Docs partial mdformat improvements (#7378)
