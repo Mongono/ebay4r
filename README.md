@@ -1,1 +1,1 @@
-add yolov10
+fix print val map
