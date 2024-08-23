@@ -1,1 +1,1 @@
-fix print val map
+Explorer with LanceDB, Actions and Docs updates (#7487)
