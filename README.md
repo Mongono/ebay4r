@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Avoid creating -hub dir without processing images (#8334)
