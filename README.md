@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Fix heatmaps width-height order bug (#7184)
