@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add domain checks to CI docs page (#8714)
