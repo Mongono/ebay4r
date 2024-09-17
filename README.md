@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
