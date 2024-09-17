@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
