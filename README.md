@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
