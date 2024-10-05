@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
