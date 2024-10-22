@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Add PR Summary step to Ultralytics Actions (#7675)
