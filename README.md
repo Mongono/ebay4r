@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Feature: Create HUB Models from CLI or Python Script (#7316)
