@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add HUB-SDK docs (#7775)
