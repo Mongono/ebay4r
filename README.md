@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Update the heatmap module code + docs (#7045)
